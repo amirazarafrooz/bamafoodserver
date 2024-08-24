@@ -38,45 +38,6 @@
                 "src":"https://api.snapp.market/media/cache/product-variation_image2/uploads/images/vendors/users/app/6321db1a8c897.jpg"
               }
             ]
-        },
-        "2" : {"day": "2"  , "date": "2024-10-2" , "weekday":"یکشنبه", "isvacation": false ,
-        "selectedItem": {},
-             "dishes": [
-              {
-                "id": 5,
-                "title": "شوید پلو با ماهی",
-                "description": "خورش قِیمه یا خورش لپه از غذاهای آشپزی ایرانی است. این خورش در میان ایرانی‌ها و عراقی‌ها غذایی پرطرفدار است"
-              },
-              {
-                "id": 6,
-                "title": "آش",
-                "description": "خورش قِیمه یا خورش لپه از غذاهای آشپزی ایرانی است. این خورش در میان ایرانی‌ها و عراقی‌ها غذایی پرطرفدار است"
-              },
-              {
-                "id": 7,
-                "title": "آبگوشت",
-                "description": "خورش قِیمه یا خورش لپه از غذاهای آشپزی ایرانی است. این خورش در میان ایرانی‌ها و عراقی‌ها غذایی پرطرفدار است"
-              },
-              {
-                "id": 8,
-                "title": "دلمه",
-                "description": "خورش قِیمه یا خورش لپه از غذاهای آشپزی ایرانی است. این خورش در میان ایرانی‌ها و عراقی‌ها غذایی پرطرفدار است"
-              }] , 
-              "drink": [
-                {
-                  "id": "1",
-                  "title": "آب",
-                  "description": "350 سی سی آب معدنی",
-                  "src":"https://api.snapp.market/media/cache/product-variation_image2/uploads/images/vendors/users/app/60fd13db1b284.jpg"
-          
-                },
-                {
-                  "id": "2",
-                  "title": "نوشابه",
-                  "description": "250 سی سی نوشابه",
-                  "src":"https://api.snapp.market/media/cache/product-variation_image2/uploads/images/vendors/users/app/6321db1a8c897.jpg"
-                }
-              ]
         }
 
         }
